@@ -1,0 +1,9 @@
+body{
+font: normal 80% verdana, arial, helvetica, sans-serif; 
+color: black; 
+background-color: #ccc; 
+
+}
+#tabs{
+	display:none !important; 
+}

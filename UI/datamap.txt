@@ -1,0 +1,188 @@
+
+
+var tab1 = d.philipsdata.valuespace;
+var tab2 = d.philipsdata.valuespace[i].datasource[0]
+var tab3 = d.philipsdata.valuespace[i].datasource[i].overview[0]
+var tab4 = d.philipsdata.valuespace[i].datasource[i].overview[i].operator[0]
+var tab5 = d.philipsdata.valuespace[i].datasource[i].overview[i].operator[i].field[0]
+
+
+var iter = function(arr){
+
+	for(var i in arr){
+		var parent = arr[i];
+			
+		
+	}
+
+}
+
+
+for(var i in tab1){
+   var tst = poo[i];
+   
+}
+
+
+d.philipsdata.valuespace[0] -> Livable Cities
+	d.philipsdata.valuespace[0].datasource[0] -> "Drivers of Health and Well-being"
+		d.philipsdata.valuespace[0].datasource[0].overview[0] -> "Important to overall health and well-being"
+			d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0] -> "Physical/Mental health"
+				d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[0].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[0].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[0].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[0].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[1].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[1].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[1].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[1].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[2].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[2].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[2].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[2].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[3].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[3].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[3].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[3].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[4].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[4].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[4].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[4].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[5].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[5].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[5].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[5].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[6].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[6].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[6].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[6].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[7].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[7].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[7].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[7].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[8].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[8].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[8].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[8].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[9].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[9].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[9].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[9].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[10].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[10].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[10].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[0].field[10].value
+					
+			d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1] -> "Weight"
+				d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[0].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[0].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[0].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[0].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[1].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[1].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[1].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[1].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[2].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[2].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[2].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[2].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[3].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[3].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[3].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[3].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[4].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[4].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[4].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[4].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[5].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[5].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[5].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[5].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[6].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[6].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[6].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[6].value
+					
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[7].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[7].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[7].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[1].field[7].value
+				
+			d.philipsdata.valuespace[0].datasource[0].overview[0].operator[2] -> "Stress"
+				d.philipsdata.valuespace[0].datasource[0].overview[0].operator[2].field
+			
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[2].field[2].city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[2].field[2].continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[2].field[2].country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[2].field[2].value
+				
+			d.philipsdata.valuespace[0].datasource[0].overview[0].operator[3] -> "Community live in/contribute to"
+				d.philipsdata.valuespace[0].datasource[0].overview[0].operator[3].field
+				
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[3].field.city
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[3].field.continent
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[3].field.country
+					d.philipsdata.valuespace[0].datasource[0].overview[0].operator[3].field.value
+				
+			d.philipsdata.valuespace[0].datasource[0].overview[0].operator[4] -> "Cost of living/Earnings"
+				->field
+			d.philipsdata.valuespace[0].datasource[0].overview[0].operator[5] -> "Job/Relationship with boss/coworkers"
+				->field
+		d.philipsdata.valuespace[0].datasource[0].overview[0] -> "The satisfying aspects of life are"
+			d.philipsdata.valuespace[0].datasource[0].overview[1].operator[0] -> "Physical/Mental health"
+				->field
+			d.philipsdata.valuespace[0].datasource[0].overview[1].operator[1] -> "Weight"
+				->field
+			d.philipsdata.valuespace[0].datasource[0].overview[1].operator[2] -> "Stress"
+				->field
+			d.philipsdata.valuespace[0].datasource[0].overview[1].operator[3] -> "Community live in/contribute to"
+				->field
+			d.philipsdata.valuespace[0].datasource[0].overview[1].operator[4] -> "Cost of living/Earnings"
+				->field
+			d.philipsdata.valuespace[0].datasource[0].overview[1].operator[5] -> "Job/Relationship with boss/coworkers"
+				->field
+			
+	d.philipsdata.valuespace[0].datasource[1] -> "City communities"
+		d.philipsdata.valuespace[0].datasource[1].overview[0]
+			d.philipsdata.valuespace[0].datasource[1].overview[0].operator[0]
+			d.philipsdata.valuespace[0].datasource[1].overview[0].operator[1]
+		d.philipsdata.valuespace[0].datasource[1].overview[1]
+			d.philipsdata.valuespace[0].datasource[1].overview[1].operator[0]
+			d.philipsdata.valuespace[0].datasource[1].overview[1].operator[1]
+			d.philipsdata.valuespace[0].datasource[1].overview[1].operator[2]
+			d.philipsdata.valuespace[0].datasource[1].overview[1].operator[3]
+	
+	d.philipsdata.valuespace[0].datasource[2] -> "Threats to health"
+		d.philipsdata.valuespace[0].datasource[2].overview[0]
+		d.philipsdata.valuespace[0].datasource[2].overview[1]
+		d.philipsdata.valuespace[0].datasource[2].overview[2]
+
+		
+		
+d.philipsdata.valuespace[1] -> Active Ageing
+	d.philipsdata.valuespace[1].datasource[0] -> "Are we aging healthily?"
+	d.philipsdata.valuespace[1].datasource[1] -> "Technology’s role in aging"
+
+
+d.philipsdata.valuespace[2] -> Healthy Start
+	d.philipsdata.valuespace[2].datasource[0] -> "Friends and family"
+	d.philipsdata.valuespace[2].datasource[1] -> "Impact of lack of sleep"
+	d.philipsdata.valuespace[2].datasource[2] -> "Causes of stress"
